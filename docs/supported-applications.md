@@ -28,7 +28,7 @@
 | [HandBrake](https://github.com/HandBrake/HandBrake) | Untested |
 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Untested |
 | [Blender](https://github.com/sobotka/blender) | Untested |
-| [LuxMark](https://github.com/LuxCoreRender/LuxMark) | Untested |
+| [LuxMark](https://github.com/LuxCoreRender/LuxMark) | :x: Runtime Error |
 | [darktable](https://github.com/darktable-org/darktable) | Untested |
 | [MACE](https://github.com/XiaoMi/mace) | Untested |
 | [KNLMeansCL](https://github.com/Khanattila/KNLMeansCL) | Untested |
